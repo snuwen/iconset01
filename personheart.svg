@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.1024,0,0,1.1024,11.8976,12.1024)">
+        <g transform="matrix(1,0,0,1,-8,-8)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="16" height="16"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M11.5,1.246C12.332,0.391 14.413,1.888 11.5,3.812C8.587,1.888 10.668,0.391 11.5,1.246M9,5C9,6.646 7.646,8 6,8C4.354,8 3,6.646 3,5C3,3.354 4.354,2 6,2C7.646,2 9,3.354 9,5M0,13C0,14 1,14 1,14L11,14C11,14 12,14 12,13C12,12 11,9 6,9C1,9 0,12 0,13M13.5,4.91C14.887,3.485 18.355,5.98 13.5,9.187C8.646,5.98 12.113,3.485 13.5,4.911L13.5,4.91ZM15,2.165C15.555,1.595 16.942,2.593 15,3.876C13.058,2.593 14.445,1.595 15,2.166L15,2.165Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
